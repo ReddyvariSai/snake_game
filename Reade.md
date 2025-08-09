@@ -34,5 +34,3 @@ Tools: Visual Studio Code, Git, GitHub
 
 
 ![image](https://github.com/user-attachments/assets/14871282-e603-4007-97c4-b6cebe770abd)
-
-

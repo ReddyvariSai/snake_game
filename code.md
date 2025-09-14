@@ -1,3 +1,5 @@
+```bash
+
 const gridSize = 20;
 const tileCount = 30;
 const MIN_SPEED = 40; // Minimum speed limit in ms
@@ -594,3 +596,4 @@ document.getElementById('introScreen').style.display = '';
 // Do not auto-start, wait for user to click Start Game
 highScore = Number(localStorage.getItem('snakeHighScore') || 0);
 updateHighScore();
+```

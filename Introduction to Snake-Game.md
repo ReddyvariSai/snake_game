@@ -1,10 +1,10 @@
-🐍 Project Title: Snake Game – Escape Edition (Children’s Game)
+# Snake Game – Escape Edition (Children’s Game)
 
-🔖 Description
+## Description
 
 It’s a creative and updated version of the classic Snake game, designed especially for children. In this game, players control a snake while interacting with birds that appear and sometimes escape, adding an exciting twist to the gameplay. The project includes different types of snakes and birds to keep the experience fun and dynamic.
 
-🎮 Game Features
+## Game Features
 🐍 Classic snake movement with modern visuals
 
 🐦 Birds appear randomly and move when the snake comes near
@@ -19,10 +19,11 @@ It’s a creative and updated version of the classic Snake game, designed especi
 
 👧🧒 Designed to be fun, colorful, and child-friendly
 
-💻 Technologies Used
+## Technologies Used
 Programming Language: JavaScript / Python / or your chosen language
 
 Graphics: HTML5 Canvas / Pygame (if Python)
 
 Tools: Visual Studio Code, Git, GitHub
+
 
